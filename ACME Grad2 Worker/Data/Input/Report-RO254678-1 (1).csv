@@ -1,0 +1,3 @@
+InvoiceNumber,Item,Date,Amount,Tax,Total,Currency
+260877,"Professional Services",2017-01-01,104415,20883,125298,RON
+158654,"Concierge Services",2017-01-07,292962,58592.4,351554,EUR
